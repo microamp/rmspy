@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Rmspy
+_Comment=Rmspy application
+Categories=GNOME;Utility;
+Exec=rmspy
+Icon=rmspy
+Terminal=false
+Type=Application
